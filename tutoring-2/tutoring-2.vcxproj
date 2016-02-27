@@ -157,7 +157,6 @@
     <ClInclude Include="dep\catch\catch.hpp" />
     <ClInclude Include="dep\catch\run-tests.hpp" />
     <ClInclude Include="src\homework\homework.hpp" />
-    <ClInclude Include="src\homework\read.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
